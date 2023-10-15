@@ -1,0 +1,183 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "aboutTitle": "Қазақстан Мұғалімі",
+        "aboutSubtitle": "Ұлттық Сыйлығы",
+        "aboutDescription": "Бұл Global Teacher Prize халықаралық жобасының бір бөлігі, жүлде қоры 1 миллион АҚШ долларын құрайтын Нобель сыйлығының «мұғалімдерге» арналған аналогы, бұл Global Teacher Prize жаһандық Сыйлығының іріктеу кезеңіне қатысу үшін елдің 10 үздік мұғалімін анықтау үрдісі.",
+        "aboutButton": "Жоба туралы толығырақ",
+        "bestTeachersTitle": "Қазақстанның үздік мұғалімдері",
+        "bestTeachersSubtitle": "Еліміздің Ұлы ұстаздарын қолдау, шабыттандыру және кәсіби дамыту.",
+        "bestTeachersWinners": "Жеңімпаздар",
+        "bestTeachersFinalists": "Финалистер",
+        "partners": "Серіктестеріміз",
+        "quoteTitle": "Ұстаз",
+        "quoteDescription": "– білім жолын нұрландырып, соған деген шексіз ізденіске шабыттандыратын жарық жұлдыз."
+    },
+    "About": {
+        "firstTitle": "Сыйлық Бүгін",
+        "firstDescription": "National Teacher Prize – 2019 жылдан бері «Үздік мұғалім» республикалық байқауына біріктірілген Қазақстанның үздік мұғаліміне берілетін $10 000 сыйлығы. 2020 жылы Қазақстан алғаш рет Дубайда өтетін Дүниежүзілік білім және дағдылар форумының ресми қатысушысы болады.",
+        "firstBtnTitle": "",
+        "firstBtnLink": "#",
+        "firstSubdescription": "Дүниежүзілік мұғалімнің әлемдік байқауына қатысу үшін ұлттық байқаудың 10 финалистінің өтінімдері жіберіледі.",
+        "firstImg": "https://bilimdinews.kz/wp-content/uploads/2021/09/242893827_2014249788730942_1981086537741538182_n.jpg",
+        "firstImgAlt": "2021 Сыйлығы",
+        "secondTitle": "Құрылу Тарихы",
+        "secondDescription": "Жыл сайын Қазақстан Республикасы Білім және ғылым министрлігі «Үздік педагог» республикалық байқауын өткізеді. Байқаудың мақсаты – озық мұғалімдерді анықтау, қолдау және ынталандыру, педагогикалық тәжірибені тарату және мұғалім еңбегінің беделін арттыру. Әлеуметтік маңызы бар бастамаларды дамыту қоры «Varke» қорымен өзара түсіністік туралы меморандумға отырды және «Үздік педагог» мемлекеттік байқауы аясында өзінің «Қазақстан мұғалімі» Ұлттық сыйлығын біріктіруді ұсынды.",
+        "secondBtnTitle": "",
+        "secondBtnLink": "#",
+        "secondImg": "https://bilimdinews.kz/wp-content/uploads/2020/12/44f8085e-c81a-4b3c-a332-519f3a96bb89.jpg",
+        "secondImgAlt": "2020 Сыйлығы",
+        "statsImg": "https://tengrinews.kz/userdata/news/2021/news_445276/thumb_m/photo_370279.png",
+        "statsImgAlt": "Сыйлық Сандармен",
+        "statsSubtitle": "Сыйлық Сандармен",
+        "statsTitle": "Әділ және ашық Сыйлық",
+        "statsDescription": "Үздік үміткерлерді бейтарап іріктеуді Тәуелсіз Төрешілер академиясы жүргізеді, оның құрамына Білім және ғылым министрлігінің, ата-аналар қоғамдастығының, үкіметтік емес ұйымдардың өкілдері, білім беру саласындағы тәуелсіз сарапшылар, меценаттар, бақылауда болады. PricewaterhouseCoopers халықаралық аудиторлар тобы.",
+        "stat1": "5",
+        "emphasis1": "Жеңімпаз",
+        "rest1": "Сыйлық иегері атанды және әрқайсысы 4 000 000 теңгеден алды.",
+        "stat2": "50",
+        "emphasis2": "Финалистер",
+        "rest2": "Қазақстанның үздік мұғалімі атағын алды.",
+        "stat3": "500K+",
+        "emphasis3": "Өтінім",
+        "rest3": "Қазақстанның түкпір-түкпірінен жіберілді.",
+        "stat4": "43",
+        "emphasis4": "Тәуелсіз Төреші",
+        "rest4": "еліміздің үздік ұстаздарын таңдады."
+    },
+    "Project": {
+        "title": "Study-Star",
+        "tagline": "Global Teacher Prize Kazakhstan"
+    },
+    "Nav": {
+        "home": "Басты бет",
+        "about": "Біз туралы",
+        "contact": "Байланыс",
+        "terms": "Шарттар",
+        "privacy": "Құпиялық",
+        "cookies": "Cookies",
+        "winners": "Жеңімпаздар",
+        "finalists": "Финалистер",
+        "criteria": "Өлшемшарттары"
+    },
+    "NotFoundPage": {
+        "title": "Бұл парақша табылмады"
+    },
+    "LocaleSwitcher": {
+        "label": "Тіл өзгерту",
+        "locale": "{locale, select, kk {Қазақша} en {English} ru {Русский} other {Unbekannt}}"
+    },
+    "Contact": {
+        "phone": "+7 777 777 77 77"
+    },
+    "Footer": {
+        "copy": "Авторлық құқық",
+        "right": "Барлық құқықтар қорғалған.",
+        "ctaTitle": "Сіз мұғалімсіз бе?",
+        "ctaDescription": "Осында басып, Қоғамдастығымызға қосылыңыз."
+    },
+    "StoryText": {
+        "title1": "Сәлем жолаушы!",
+        "subtitle1": "Әуе кемемізге қош келдіңіз! Орныңызға жайғасып, Study Star туралы ақпарат ала отырып, керемет көріністен ләззат алыңыз.",
+        "title2": "Білімге құштар жандардың Сыйлығы!",
+        "subtitle2": "Жобаның негізгі мақсаты - оқушыдан бастап, мұғалімге дейін білім саласындағы дарынды адамдарды ұлықтау.",
+        "title3": "Бізбен бірге самғаңыз!",
+        "subtitle3": "Жобаға қатысу арқылы Қазақстанның үздік оқушылары мен мұғалімдерінің қатарына қосылыңыз.",
+        "title4": "Әлем Мұғалімі және Оқушысы!",
+        "subtitle4": "Сонымен қатар Global Teacher Prize жаһандық Сыйлығына қатысу мүмкіндігіне ие болыңыз.",
+        "start": "Жұлдыздарға саяхат",
+        "scroll": "Саяхатты бастау үшін төмен жылжытыңыз",
+        "outro": "Жұлдыздарға саяхатымыз сізге ұнады деген үміттеміз...",
+        "intro": "Мұғалімдер және Оқушылар Сыйлығы"
+    },
+    "BestTeachers1": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Химия мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers2": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Математики мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1610655507808-a59293f4e332?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers3": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Бастауыш сыныптары мұғалімі",
+        "winnerOrFinalist": "Жеңімпаз",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1288&q=80"
+    },
+    "BestTeachers4": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Мектеп директоры",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    "BestTeachers5": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Ағылшын тілі мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers6": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Тарих мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers7": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Қазақ тілі және әдебиеті мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    "BestTeachers8": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Дене шынықтыру мұғалімі",
+        "winnerOrFinalist": "Победитель",
+        "image": "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    "BestTeachers9": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Балабақша тәрбиешісі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1590086782957-93c06ef21604?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers10": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Тарих мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers11": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Орыс тілі және әдебиеті мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1475823678248-624fc6f85785?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    "BestTeachers12": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Биология мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers13": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Физика мұғалімі",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://plus.unsplash.com/premium_photo-1661373735995-02da71212cb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1431&q=80"
+    },
+    "BestTeachers14": {
+        "fullname": "Тегі Аты Әкеснің есімі",
+        "occupation": "Университет Доценті",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
+    },
+    "CTA": {
+        "title1": "Study-Star болуға дайынсыз ба?",
+        "title2": "Осында басып, аккаунтыңызды тіркеңіз.",
+        "btn1": "study-star.space",
+        "btn1Link": "#"
+    }
+}

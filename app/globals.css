@@ -1,0 +1,185 @@
+@tailwind base;
+@layer base {
+    html {
+        @apply text-neutral-800;
+    }
+    html.dark {
+        @apply text-neutral-50;
+        @apply bg-neutral-800;
+    }
+}
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    height: 5px;
+    width: 2px;
+    background: var(--background);
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.23);
+}
+
+::-webkit-scrollbar-thumb {
+    background: white;
+    -webkit-border-radius: 10%;
+}
+
+::-webkit-scrollbar-corner {
+    background: var(--background);
+}
+
+html {
+    scroll-snap-type: y mandatory;
+}
+.overlay--disable {
+    pointer-events: none;
+}
+
+.intro__scroll {
+    opacity: 0;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    position: absolute;
+    top: 24vh;
+}
+.intro--disappear .intro__scroll {
+    animation: fadeIn 1s ease-in-out 1.5s forwards;
+}
+
+.overlay--scrolled .intro__scroll {
+    animation: fadeOut 1s ease-in-out forwards;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.outro {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 4s ease-in-out;
+}
+
+.outro--appear {
+    opacity: 1;
+}
+
+.outro__text {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.5rem;
+}
+
+.logo-title {
+    animation: fadeUp 2.4s ease-in-out;
+    transition: all 2s ease-in-out;
+}
+
+.logo-subtitle {
+    animation: fadeUp 2.4s ease-in-out;
+    transition: all 2s ease-in-out;
+}
+
+.intro--disappear .logo-title {
+    top: 10%;
+    transform: scale(0.25);
+    transform-origin: center top;
+    opacity: 0;
+}
+
+.intro--disappear .logo-subtitle {
+    top: 10%;
+    transform: scale(0.25);
+    transform-origin: center top;
+    opacity: 0;
+}
+
+.intro--disappear .explore {
+    animation: fadeOut 1s ease-in-out forwards;
+}
+
+.explore:hover {
+    color: white;
+}
+
+.explore:hover::before {
+    width: 200%;
+    height: 300%;
+    border-radius: 100%;
+}
+
+.explore::before {
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 0;
+    left: 50%;
+    z-index: -1;
+    transition: 0.42s ease-in-out;
+    transform: translateX(-50%) translateY(50%);
+}
+
+.loader--disappear {
+    opacity: 0;
+}
+
+@keyframes fadeUp {
+    0% {
+        opacity: 0;
+        transform: translateY(100px);
+        filter: blur(9px);
+    }
+    100% {
+        opacity: 1;
+        filter: none;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    /* .logo {
+        font-size: 3rem;
+        letter-spacing: 0.25rem;
+    } */
+
+    .intro--disappear .logo {
+        top: 24px;
+        transform: scale(0.5);
+        transform-origin: center top;
+    }
+
+    .outro__text {
+        font-size: 1rem;
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "aboutTitle": "Учитель Казахстана",
+        "aboutSubtitle": "Национальная Премия",
+        "aboutDescription": "Это часть международного проекта Global Teacher Prize, «учительский» аналог Нобелевской премии с призовым фондом в 1 миллион долларов США, это отбор 10 лучших учителей страны для участия в отборочном туре Глобальной премии «Учитель Мира»",
+        "aboutButton": "Подробнее о проекте",
+        "bestTeachersTitle": "Лучшие учителя Казахстана",
+        "bestTeachersSubtitle": "Поддержка, Вдохновение и Профессиональное Развитие для Великих Педагогов нашей страны.",
+        "bestTeachersWinners": "Победители",
+        "bestTeachersFinalists": "Финалисты",
+        "partners": "Наши Партнеры",
+        "quoteTitle": "Учитель",
+        "quoteDescription": "— это светлая звезда, которая освещает путь знаний и вдохновляет на бесконечное стремление к ней."
+    },
+    "About": {
+        "firstTitle": "Премия Сегодня",
+        "firstDescription": "National Teacher Prize – это премия в размере 10 000 долларов США лучшему учителю Казахстана, с 2019 года интегрированная в Республиканский конкурс «Лучший педагог». В 2020 году Казахстан впервые станет официальным участником Всемирного Форума образования и навыков, который будет проходить в Дубае.",
+        "firstBtnTitle": "",
+        "firstBtnLink": "#",
+        "firstSubdescription": "Заявки 10 финалистов национального конкурса будут поданы на участие во Всемирном Конкурсе «Учитель мира».",
+        "firstImg": "https://bilimdinews.kz/wp-content/uploads/2021/09/242893827_2014249788730942_1981086537741538182_n.jpg",
+        "firstImgAlt": "Премия 2021",
+        "secondTitle": "История Создания",
+        "secondDescription": "Каждый год Министерство образования и науки Республики Казахстан проводит республиканский конкурс «Лучший педагог». Целью конкурса является выявление, поддержка и поощрение передовых учителей, распространение педагогического опыта и повышение престижа труда педагога. Фонд развития общественно значимых инициатив заключил Меморандум о Взаимопонимании с Фондом Варке и предложил интегрировать собственную Национальную Премию «Учитель Казахстана» в рамках государственного конкурса «Лучший педагог».",
+        "secondBtnTitle": "",
+        "secondBtnLink": "#",
+        "secondImg": "https://bilimdinews.kz/wp-content/uploads/2020/12/44f8085e-c81a-4b3c-a332-519f3a96bb89.jpg",
+        "secondImgAlt": "Премия 2020",
+        "statsImg": "https://tengrinews.kz/userdata/news/2021/news_445276/thumb_m/photo_370279.png",
+        "statsImgAlt": "Премия в Цифрах",
+        "statsSubtitle": "Премия в Цифрах",
+        "statsTitle": "Прозрачная и Открытая Премия",
+        "statsDescription": "Беспристрастный отбор лучших кандидатов производится Независимой Академией судей, в состав которой вход представители Министерства образования и науки, родительского сообщества, неправительственных организаций, независимые эксперты в сфере образования, филантропы, под наблюдением команды международных аудиторов PricewaterhouseCoopers.",
+        "stat1": "5",
+        "emphasis1": "Победителей",
+        "rest1": "стали обладателями Премии и получили по 4 000 000 тенге.",
+        "stat2": "50",
+        "emphasis2": "Финалистов",
+        "rest2": "были номинированы в качестве лучших учителей Казахстана.",
+        "stat3": "500K+",
+        "emphasis3": "Анкет",
+        "rest3": "были отправлены участниками со всего Казахстана.",
+        "stat4": "43",
+        "emphasis4": "Представителя",
+        "rest4": "Независимой Академии Судей выбирали лучших учителей страны."
+    },
+    "Project": {
+        "title": "Study-Star",
+        "tagline": "Global Teacher Prize Kazakhstan"
+    },
+    "Nav": {
+        "home": "Главная",
+        "about": "О проекте",
+        "contact": "Контакты",
+        "terms": "Условия",
+        "privacy": "Конфиденциальность",
+        "cookies": "Cookies",
+        "winners": "Победители",
+        "finalists": "Финалисты",
+        "criteria": "Критерий"
+    },
+    "NotFoundPage": {
+        "title": "Страница не найдена"
+    },
+    "LocaleSwitcher": {
+        "label": "Изменить язык",
+        "locale": "{locale, select, kk {Қазақша} en {English} ru {Русский} other {Unbekannt}}"
+    },
+    "Contact": {
+        "phone": "+7 777 777 77 77"
+    },
+    "Footer": {
+        "copy": "Авторское право",
+        "right": "Все права защищены.",
+        "ctaTitle": "Вы педагог?",
+        "ctaDescription": "Нажмите здесь и Присоединяйтесь к Нашему Сообществу."
+    },
+    "StoryText": {
+        "title1": "Привет пассажир!",
+        "subtitle1": "Добро пожаловать на борт! Присаживайтесь поудобнее и наслаждайтесь видами, получая информацию о проекте Study Star.",
+        "title2": "Премия для ищущих знаний!",
+        "subtitle2": "Основная цель проекта - восхваление всех кто на пути знаний, начиная от учеников до учителей.",
+        "title3": "Взлетайте вместе с нами!",
+        "subtitle3": "Присоединяйтесь к рядам лучших учеников и учителей Казахстана, участвуя в конкурсе.",
+        "title4": "Учитель и Ученик Мира!",
+        "subtitle4": "Получите возможность участвовать в глобальной Премии Global Teacher Prize.",
+        "start": "Путешествие к звездам",
+        "scroll": "Прокрутите вниз, чтобы начать путешествие",
+        "outro": "Надеемся что вам понравился наш полет к звездам...",
+        "intro": "Премия Учителей и Учеников"
+    },
+    "BestTeachers1": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Преподаватель Химии",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers2": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Преподаватель Математики",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers3": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Преподаватель Начальных Классов",
+        "winnerOrFinalist": "Победитель",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers4": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Директор школы",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers5": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Преподаватель Английского языка",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers6": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Учитель Истории",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers7": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Учитель Казахского языка и Литературы",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers8": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Преподаватель Физкультуры",
+        "winnerOrFinalist": "Победитель",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers9": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Воспитатель детского сада",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers10": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Учитель Истории",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers11": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Учитель Русского языка и Литературы",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers12": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Преподаватель Биологии",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers13": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Учитель Физики",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "BestTeachers14": {
+        "fullname": "Фамилия Имя Отчество",
+        "occupation": "Доцент Университета",
+        "winnerOrFinalist": "Финалист",
+        "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80"
+    },
+    "CTA": {
+        "title1": "Вы готовы стать Study-Star?",
+        "title2": "Нажмите сюда и создайте свой аккаунт.",
+        "btn1": "study-star.space",
+        "btn1Link": "#"
+    }
+}
