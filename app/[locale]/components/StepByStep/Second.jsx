@@ -1,5 +1,6 @@
 import { Container } from '../Container'
 import { SectionHeading } from '../SectionHeading'
+import { LoremIpsum } from 'react-lorem-ipsum'
 
 export function Second() {
     return (
@@ -15,10 +16,9 @@ export function Second() {
                 <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
                     Критерий отбора
                 </p>
-                <p className="mt-4 text-lg tracking-tight text-slate-700">
-                    Здесь должна быть информация кто и как может принимать
-                    участие в конкурсе.
-                </p>
+                <div className="mt-4 text-lg tracking-tight text-slate-700">
+                    <LoremIpsum p={5} />
+                </div>
             </Container>
         </section>
     )

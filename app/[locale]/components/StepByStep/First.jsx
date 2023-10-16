@@ -2,6 +2,7 @@ import Block3images from '../Block3images'
 import { Container } from '../Container'
 import { GridPattern } from '../GridPattern'
 import { SectionHeading } from '../SectionHeading'
+import { LoremIpsum } from 'react-lorem-ipsum'
 
 const block3imgs = {
     img1: 'https://www.tailwind-kit.com/images/landscape/3.jpg',
@@ -33,11 +34,9 @@ export function First() {
                 <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
                     Сообщество Study-Star
                 </p>
-                <p className="mt-4 text-lg tracking-tight text-slate-700">
-                    Здесь необходимо объяснить о пользе и преимуществах нашего
-                    сообщества.
-                </p>
-                <Block3images {...block3imgs} />
+                <div className="mt-4 text-lg tracking-tight text-slate-700">
+                    <LoremIpsum p={4} />
+                </div>
             </Container>
         </section>
     )

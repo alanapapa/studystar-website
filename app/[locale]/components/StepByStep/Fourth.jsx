@@ -1,5 +1,7 @@
+import { use, useEffect } from 'react'
 import { Container } from '../Container'
 import { SectionHeading } from '../SectionHeading'
+import { LoremIpsum } from 'react-lorem-ipsum'
 
 export function Fourth() {
     return (
@@ -15,10 +17,9 @@ export function Fourth() {
                 <p className="mt-8 font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
                     Учитель Казахстана
                 </p>
-                <p className="mt-4 max-w-xl text-lg tracking-tight text-slate-600">
-                    Здесь должна быть информация о церемонии награждения, какие
-                    работы будут вестись с финалистами и победителем.
-                </p>
+                <div className="mt-4 text-lg tracking-tight text-slate-700">
+                    <LoremIpsum p={4} />
+                </div>
             </Container>
         </section>
     )

@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { GridPattern } from '../GridPattern'
 import { SectionHeading } from '../SectionHeading'
 import { Container } from '../Container'
+import { LoremIpsum } from 'react-lorem-ipsum'
 
 export function Fifth() {
     return (
@@ -19,10 +20,9 @@ export function Fifth() {
                 <p className="mt-8 font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
                     Учитель Мира
                 </p>
-                <p className="mt-4 max-w-xl text-lg tracking-tight text-slate-600">
-                    Здесь будет информация о глобальной премии Учитель Мира и
-                    участии в ней.
-                </p>
+                <div className="mt-4 text-lg tracking-tight text-slate-700">
+                    <LoremIpsum p={4} />
+                </div>
             </Container>
         </section>
     )

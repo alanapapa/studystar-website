@@ -45,6 +45,13 @@
         "emphasis4": "Тәуелсіз Төреші",
         "rest4": "еліміздің үздік ұстаздарын таңдады."
     },
+    "Criteria": {
+        "first": "Қоғамдастық",
+        "second": "Қатысу",
+        "third": "Төрешілер Академиясы",
+        "fourth": "Ұлттық Сыйлық",
+        "fifth": "Жаһандық Сыйлық"
+    },
     "Project": {
         "title": "Study-Star",
         "tagline": "Global Teacher Prize Kazakhstan"
@@ -68,7 +75,9 @@
         "locale": "{locale, select, kk {Қазақша} en {English} ru {Русский} other {Unbekannt}}"
     },
     "Contact": {
-        "phone": "+7 777 777 77 77"
+        "phone": "+7 777 777 77 77",
+        "address": "Астана, Қазақстан",
+        "email": "info@study-star.space"
     },
     "Footer": {
         "copy": "Авторлық құқық",
@@ -177,7 +186,7 @@
     "CTA": {
         "title1": "Study-Star болуға дайынсыз ба?",
         "title2": "Осында басып, аккаунтыңызды тіркеңіз.",
-        "btn1": "study-star.space",
+        "btn1": "Кіру / Тікелу",
         "btn1Link": "#"
     }
 }

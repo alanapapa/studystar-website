@@ -6,6 +6,7 @@ import LogoLight from './LogoLight'
 export default function Footer() {
     const t1 = useTranslations('Project')
     const t2 = useTranslations('Footer')
+    const contact = useTranslations('Contact')
     return (
         <footer className="border-t border-gray-200 px-6 md:px-12">
             <Container>
@@ -117,7 +118,7 @@ export default function Footer() {
                                         </svg>
 
                                         <span className="flex-1 text-gray-700">
-                                            info@studystar.me
+                                            {contact('email')}
                                         </span>
                                     </a>
                                 </li>
@@ -143,7 +144,7 @@ export default function Footer() {
                                         </svg>
 
                                         <span className="flex-1 text-gray-700">
-                                            0123456789
+                                            {contact('phone')}
                                         </span>
                                     </a>
                                 </li>
@@ -170,7 +171,7 @@ export default function Footer() {
                                     </svg>
 
                                     <address className="-mt-0.5 flex-1 not-italic text-gray-700">
-                                        213 Astana, Kazakhstan
+                                        {contact('address')}
                                     </address>
                                 </li>
                             </ul>

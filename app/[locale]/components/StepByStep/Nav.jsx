@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 import { Popover } from '@headlessui/react'
 import clsx from 'clsx'
+import { useTranslations } from 'next-intl'
 
 const sections = [
     { id: 'first', title: 'Сообщество' },
@@ -37,6 +38,7 @@ export function Nav() {
     let navBarRef = useRef()
     let [activeIndex, setActiveIndex] = useState(null)
     let mobileActiveIndex = activeIndex === null ? 0 : activeIndex
+    const t = useTranslations('Criteria')
 
     useEffect(() => {
         function updateActiveIndex() {
@@ -103,7 +105,7 @@ export function Nav() {
                                             .padStart(2, '0')}
                                     </span>
                                     <span className="ml-4 text-base font-medium text-slate-900">
-                                        {sections[mobileActiveIndex].title}
+                                        {t(`${sections[mobileActiveIndex].id}`)}
                                     </span>
                                 </>
                             )}
@@ -143,7 +145,7 @@ export function Nav() {
                                             .padStart(2, '0')}
                                     </span>
                                     <span className="ml-4 text-base font-medium text-slate-900">
-                                        {section.title}
+                                        {t(`${section.id}`)}
                                     </span>
                                 </Popover.Button>
                             ))}
@@ -171,7 +173,7 @@ export function Nav() {
                                         : 'border-transparent before:text-slate-500 hover:bg-blue-50/40 hover:before:text-slate-900'
                                 )}
                             >
-                                {section.title}
+                                {t(`${section.id}`)}
                             </Link>
                         </li>
                     ))}

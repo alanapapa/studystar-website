@@ -7,6 +7,7 @@ import discordImage from 'public/resources/discord.svg'
 import figmaImage from 'public/resources/figma.svg'
 import videoPlayerImage from 'public/resources/video-player.svg'
 import authorImage from 'public/avatars/author.png'
+import { LoremIpsum } from 'react-lorem-ipsum'
 
 const resources = [
     {
@@ -71,10 +72,9 @@ export function Third() {
                 <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
                     Кто будет рассматривать анкеты и как
                 </p>
-                <p className="mt-4 text-lg tracking-tight text-slate-700">
-                    Здесь будет информация об Академии Судей и данные членов
-                    Академии Судей.
-                </p>
+                <div className="mt-4 text-lg tracking-tight text-slate-700">
+                    <LoremIpsum p={3} />
+                </div>
             </Container>
             <Container size="lg" className="mt-16">
                 <ol
